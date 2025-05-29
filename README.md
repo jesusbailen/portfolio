@@ -31,7 +31,7 @@ En este portfolio encontrarás una selección de proyectos personales y académi
 
 - 📧 jesusbailensanchez@gmail.com  
 - 📱 [+34 680 486 219](tel:+34680486219)  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/jesusbailen) *(añádelo si tienes perfil)*
+- 🌍 [LinkedIn]([https://www.linkedin.com/in/jesusbailen](https://www.linkedin.com/in/jes%C3%BAs-bail%C3%A9n-0752a121b/)) *
 
 ---
 
