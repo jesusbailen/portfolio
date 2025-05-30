@@ -62,15 +62,14 @@ footer {
   background: #eee;
   font-size: 0.9rem;
 }
-.profile-img {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  height: 200px;
+.profile-img-top {
+  display: block;
+  margin: 0 auto;
+  height: 120px;
   width: auto;
   object-fit: contain;
-  opacity: 0.97;
-  pointer-events: none;
-  z-index: 10;
+  margin-bottom: 1rem;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
 }
+
 
