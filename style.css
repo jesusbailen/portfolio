@@ -65,13 +65,14 @@ footer {
 
 .profile-img {
   position: fixed;
-  bottom: 1.5rem;
-  right: 1.5rem;
-  width: 110px;
-  height: auto;
-  object-fit: contain;
+  bottom: 0;
+  left: 0;
+  height: 100px;
+  width: auto;
+  object-fit: cover;
+  transform: translateX(-35%);
+  opacity: 0.95;
   pointer-events: none;
-  opacity: 0.92;
   z-index: 10;
 }
 
