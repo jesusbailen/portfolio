@@ -65,11 +65,11 @@ footer {
 .profile-img-top {
   display: block;
   margin: 0 auto;
-  height: 120px;
+  height: 200px;
   width: auto;
   object-fit: contain;
-  margin-bottom: 1rem;
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+  margin-bottom: 1.5rem;
 }
 
 
