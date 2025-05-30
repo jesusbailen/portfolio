@@ -66,11 +66,10 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
-  height: 160px;
+  height: 200px;
   width: auto;
-  object-fit: cover;
-  clip-path: inset(0 50% 0 0); /* oculta la mitad izquierda */
-  opacity: 0.96;
+  object-fit: contain;
+  opacity: 0.97;
   pointer-events: none;
   z-index: 10;
 }
