@@ -7,14 +7,13 @@ body {
 }
 
 header {
- header {
   position: relative;
   background: #004aad;
   color: white;
   padding: 2rem 1rem;
+  padding-right: 180px; /* espacio para la imagen */
   text-align: center;
 }
-
 }
 
 header h1 {
@@ -69,12 +68,13 @@ footer {
 .profile-img-top {
   position: absolute;
   top: 1.5rem;
-  right: 1.5rem;
-  height: 120px;
+  right: 2rem;
+  height: 160px;
   width: auto;
   object-fit: contain;
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
   z-index: 5;
 }
+
 
 
