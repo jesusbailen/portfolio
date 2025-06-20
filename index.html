@@ -23,6 +23,12 @@
     h1, h2 {
       color: #333;
       text-align: center;
+      transition: transform 0.3s ease, color 0.3s ease;
+      cursor: default;
+    }
+    h1:hover, h2:hover {
+      transform: scale(1.05);
+      color: #0077cc;
     }
     p {
       max-width: 700px;
@@ -77,6 +83,9 @@
         border-color: #444;
       }
       a {
+        color: #66aaff;
+      }
+      h1:hover, h2:hover {
         color: #66aaff;
       }
     }
@@ -147,4 +156,5 @@
 
 </body>
 </html>
+
 
