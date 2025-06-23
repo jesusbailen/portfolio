@@ -14,7 +14,7 @@ En este portfolio encontrarás una muestra de mis proyectos más relevantes, don
 
 | Proyecto          | Descripción                                                                 | Tecnologías                          |
 |------------------|------------------------------------------------------------------------------|--------------------------------------|
-| [Bairoom](https://github.com/jesusbailen/bairoom)          | Plataforma para ayudar a propietarios a alquilar habitaciones de forma sencilla y rentable | HTML, CSS, JavaScript, Python, Selenium |
+| [Bairoom](https://jesusbailen.github.io/bairoom-web/)          | Plataforma para ayudar a propietarios a alquilar habitaciones de forma sencilla y rentable | HTML, CSS, JavaScript, Python, Selenium |
 | [Refugio Emocional](https://github.com/jesusbailen/refugio-emocional) | Web colaborativa con testimonios personales para acompañar emocionalmente a otros           | HTML, JS, Firebase                    |
 | [Idealista Bot](https://github.com/jesusbailen/idealista-bot)        | Bot automatizado para contactar propietarios en Idealista                                      | Python, Selenium, Web Scraping       |
 
